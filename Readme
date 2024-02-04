@@ -1,0 +1,13 @@
+How long did you spend on this assignment?
+I spent almost 24 hours setting up and starting to code. I also have some hands-on practice with Git and coding.
+
+Based on your effort, what letter grade would you say you earned?
+Based on the effect, i would likely receive a grade around 'A' or 'A-'. It correctly solves the problem.
+
+Based on your solution, what letter grade would you say you earned?
+Based on the criteria of functionality, efficiency, code style, best practices, and scalability, i would likely receive a grade around 'A' or 'A-'. It correctly solves the problem.
+
+Provide a summary of what doesn't work in your solution, along with an explanation of how you attempted to solve the problem and where you feel you struggled.
+A normal matrix to a sparse matrix and may not compile due to variable-length array usage, which is not standard in C++. 
+It lacks input validation and efficient memory use. The approach of scanning the matrix twice could be optimized. The main struggle appears to be with efficient 
+memory practices and optimizing the conversion process.
